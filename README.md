@@ -1,0 +1,2 @@
+# repo-friendly
+Repositorio amigable.
